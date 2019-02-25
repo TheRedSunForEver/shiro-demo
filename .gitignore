@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+shiro-demo.iml
+src/main/java/org/x/.DS_Store
+src/test/
+target/
+/.idea/vcs.xml
