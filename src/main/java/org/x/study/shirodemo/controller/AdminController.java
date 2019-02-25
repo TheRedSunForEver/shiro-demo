@@ -15,6 +15,6 @@ public class AdminController {
 
     @RequestMapping(value = "/getMessage")
     public ResultMap getMessage() {
-        return resultMap.success().message("拥有user权限，可以访问该url");
+        return resultMap.success().message("拥有admin权限，可以访问该url");
     }
 }
